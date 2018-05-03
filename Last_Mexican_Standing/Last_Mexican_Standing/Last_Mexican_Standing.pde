@@ -1,4 +1,6 @@
 import processing.sound.*;
+
+//Este programa utiliza la biblioteca "Minim"
 import ddf.minim.*;
 
 Minim minim;
