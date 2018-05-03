@@ -143,7 +143,7 @@ rect(1000,40,vida2,50);
 textSize(40);
   textAlign(CORNER);
   fill(turno2);
-  text(nombre, 1300,130);
+  text(nombre, 1100,130);
 }
 }
 
